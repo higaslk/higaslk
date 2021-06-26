@@ -2,6 +2,9 @@
 I'm a game and application developer.
 Working on new projects 🙂
 
+Recent updates:
+[June 26, 2021] - StuddS repository deleted. A more improved version of the old one is being made.
+
 <a href="https://twitter.com/Higamersan">
 <img src="http://i.imgur.com/tXSoThF.png">
 </a><a href="https://github.com/Higamers"><img src="http://i.imgur.com/0o48UoR.png"></a>
